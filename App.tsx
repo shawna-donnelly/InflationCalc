@@ -103,7 +103,7 @@ export const App = (): JSX.Element => {
             title="Calculate inflation"
             onPress={() => {
               calculate();
-              Analytics.trackEvent('calculate_inflation', { Internet: 'WiFi', GPS: 'Off' });
+              Analytics.trackEvent('calculate_inflation2', { Internet: 'WiFi', GPS: 'Off' });
             }}
           />
           <Text style={styles.label}>
