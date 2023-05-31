@@ -63,3 +63,5 @@ yarn-error.log
 .metro-health-check*
 
 ios/AppCenter-Config.plist
+ios/InflationCalc/AppCenter-Config.plist
+android/app/src/main/assets/appcenter-config.json
